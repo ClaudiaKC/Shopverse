@@ -1,0 +1,10 @@
+# Ignore environment files
+venv/
+__pycache__/
+db.sqlite3
+*.pyc
+*.pyo
+
+# Ignore IDE and OS files
+.vscode/
+.DS_Store
